@@ -4,7 +4,7 @@ This HaskStacks repo is for the Haskell Stack, the Functional Programming langua
 It contains [worked examples](#) and, [projects](#) made with Haskell.
 
 
-[Changelog](#)  
+[Changelog](#)
 
 
 [Docs](#) 
@@ -12,5 +12,5 @@ It contains [worked examples](#) and, [projects](#) made with Haskell.
 
 [Projects](#)
 
--- [Accmeter](#)  
+-- [Accmeter](../Projects/insslamgnss)
 
