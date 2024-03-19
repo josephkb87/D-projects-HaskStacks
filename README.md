@@ -1,7 +1,8 @@
 # HaskStacks
 
 This HaskStacks repo is for the Haskell Stack, the Functional Programming language. 
-It contains worked examples and, sample projects made with Haskell.
+It contains [worked examples](#) and, [projects](#) made with Haskell.
+
 
 [Changelog](#)  
 
@@ -10,3 +11,5 @@ It contains worked examples and, sample projects made with Haskell.
 
 
 [Projects](#)
+** [Accmeter](#)  
+
