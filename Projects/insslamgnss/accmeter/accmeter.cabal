@@ -7,8 +7,8 @@ cabal-version: 2.2
 name:           accmeter
 version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/accmeter#readme>
-homepage:       https://github.com/githubuser/accmeter#readme
-bug-reports:    https://github.com/githubuser/accmeter/issues
+homepage:       https://github.com/josephkb87/accmeter#readme
+bug-reports:    https://github.com/josephkb87/accmeter/issues
 author:         Author name here
 maintainer:     example@example.com
 copyright:      2024 Author name here
