@@ -11,5 +11,6 @@ It contains [worked examples](#) and, [projects](#) made with Haskell.
 
 
 [Projects](#)
-** [Accmeter](#)  
+
+-- [Accmeter](#)  
 
