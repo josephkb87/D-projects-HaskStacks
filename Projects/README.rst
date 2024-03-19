@@ -1,8 +1,5 @@
-This is the HackStacks Projects Readme describes our Basic Haskell Application.
+The following are some of the projects applications
 
-## Description
-1.Build concept for acceleretometer.
-2. 
+## Acceleretometer
 
-## About
-1. Build concept for Acceleromenter
+##
