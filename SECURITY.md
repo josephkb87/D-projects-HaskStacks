@@ -1,7 +1,6 @@
-# Security Policy#
+# Security Policy
 
-This work is for student academic and reseach purposes.
-
+This is our SECURITY Policy
 ## Supported Versions
 
 Use this section to tell people about which versions of your project are
