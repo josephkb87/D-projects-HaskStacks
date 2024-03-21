@@ -8,9 +8,11 @@ In order to obtain the system's linear acceleration due to motion, the pseudo-ac
 However, these calculations are heavily dependent on the INS maintaining an accurate attitude estimate, as any error in the attitude causes an error in the calculated acceleration, consequently causing errors in the integrated position and velocity.
 
 
-# Build Requirements
-1.  Rust for 
-2. Haskell
+# Develop Requirements
+1. Haskell
+2. 
 
+# Build Requirements
+1. Basel 
 
 # Testing
