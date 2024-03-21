@@ -1,7 +1,10 @@
 .stack-work/
 
-
 deployments
+
+/Projects
+
+Projects/
 
 ### Emacs ###
 # -*- mode: gitignore; -*-
