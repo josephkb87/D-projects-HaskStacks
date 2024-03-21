@@ -2,11 +2,19 @@
 
 This repository is for Haskell, the Functional Programming language. 
 
-It contains [worked examples](#) and, [projects](#) made with Haskell.
+It contains [Worked examples](#) and, [Projects](#) made with Haskell.
 
+## [Worked examples](#)
+ 
+-- [Basic Embedded System](../Projects/embstem)
+ 
 
-[Changelog](#) [Docs](#)
-
-[Projects](#)
+## [Projects](#)
 -- [Accmeter](../Projects/insslamgnss)
 -- [Magnetometer](../Projects/magmeter)
+
+
+
+
+
+[CHANGELOG](#)    [Docs](#)    [Contribute](#)  [Pull Requests](#)
