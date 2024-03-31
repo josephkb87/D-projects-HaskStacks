@@ -2,10 +2,6 @@
 
 deployments
 
-/Projects
-
-Projects/
-
 ### Emacs ###
 # -*- mode: gitignore; -*-
 *~
@@ -327,3 +323,7 @@ modules.xml
 # Ignore all local history of files
 .history
 .ionide
+
+
+### Batch files ###
+.bat

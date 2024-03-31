@@ -6,7 +6,7 @@ It contains [Worked examples](#) and, [Projects](#) made with Haskell.
 
 ## [Worked examples](#)
  
--- [Basic Embedded System](../Projects/embstem)
+-- [Basic Embedded System](../Projects/EmbSys)
  
 
 ## [Projects](#)
@@ -18,4 +18,5 @@ It contains [Worked examples](#) and, [Projects](#) made with Haskell.
 
 
 
-[CHANGELOG](#)    [Docs](#)    [Contribute](#)  [Pull Requests](#)
+[Docs](../docs/docs.md). [CHANGELOG.]((../docs/CHANGELOG.md)). [Contribute](../docs/CONTRIBUTING.md) .[Pull Requests](../docs/blob/PRs.md)
+  
