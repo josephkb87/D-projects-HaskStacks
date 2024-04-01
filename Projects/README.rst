@@ -1,3 +1,3 @@
-Projects
+Acceleretometer
+   Acceleretometer: Acceleretometer is a Haskell application
 
-- Acceleretometer: Acceleretometer is a Haskell application
