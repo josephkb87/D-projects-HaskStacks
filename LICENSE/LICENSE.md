@@ -1,6 +1,10 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2024 Kiyini Joseph Balamazze
+=======
+Copyright (c) 2020 Kiyini Joseph Balamazze
+>>>>>>> 46f6bf2 (Add haskell workflow)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
