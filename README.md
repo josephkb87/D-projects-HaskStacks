@@ -1,22 +1,21 @@
 # HaskStacks
 
-This repository is for Haskell, the Functional Programming language. 
+HaskStacks is a repository for the Haskell Stack, the Functional Programming language. 
 
-It contains [Worked examples](#) and, [Projects](#) made with Haskell.
+It contains [Worked Examples](#) and, [Projects](#) made with Haskell.
 
-## [Worked examples](#)
+## [Worked Examples](#)
+
+* [Basic Embedded System](../Projects/EmbSys)
  
--- [Basic Embedded System](../Projects/EmbSys)
- 
-
 ## [Projects](#)
--- [Accmeter](../Projects/insslamgnss)
+* [Accmeter](../Projects/insslamgnss)
 
--- [Magnetometer](../Projects/magmeter)
-
-
+* [Magnetometer](../Projects/Magmeter)
 
 
 
-[Docs](../docs/docs.md). [CHANGELOG.]((../docs/CHANGELOG.md)). [Contribute](../docs/CONTRIBUTING.md) .[Pull Requests](../docs/blob/PRs.md)
+
+##
+[Docs](../docs/docs.md) . [CHANGELOG]((../docs/CHANGELOG.md)) . [Contribute](../docs/CONTRIBUTING.md) . [Pull Requests](../docs/blob/PRs.md)
   
