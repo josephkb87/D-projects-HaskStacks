@@ -1,0 +1,2 @@
+# HaskCMS
+Haskell CMS
