@@ -13,6 +13,8 @@ It contains [Worked Examples](#) and, [Projects](#) made with Haskell.
 
 * [Basic Embedded System](https://github.com/josephkb87/HaskStacks/tree/main/Projects/EmbSys)
   
+* [Haskell CMS](https://github.com/josephkb87/HaskStacks/tree/main/Projects/HaskellCMS)
+  
 * [Accmeter](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Accmeter)
 
 * [Magnetometer](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Magnetometer)
