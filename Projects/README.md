@@ -1,16 +1,16 @@
 
-## Haskell Projects
+#### Haskell Projects
 
 This repo contains [Projects](https://github.com/josephkb87/HaskStacks/tree/main/Projects) made with Haskell.It focuses on an introduction to Haskell Programming by walking through three complete Haskell projects that apply the things we have learnt in [Haskell Worked Examples](https://github.com/josephkb87/HaskStacks/tree/main/HaskellWorkedExamples) 
 
 
-## Why?
+#### Why?
 * Practical application of Haskell Programming.
 
-## [Haskell Projects]
+#### Haskell Projects
 
 * [Basic Embedded System](https://github.com/josephkb87/HaskStacks/tree/main/Projects/EmbSys)
-* 
+  
 * [HaskellCMS](https://github.com/josephkb87/HaskStacks/tree/main/Projects/HaskellCMS)
   
 * [Accmeter](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Accmeter)
@@ -20,7 +20,7 @@ This repo contains [Projects](https://github.com/josephkb87/HaskStacks/tree/main
 * [INSSLAMGNSS](https://github.com/josephkb87/HaskStacks/tree/main/Projects/INSSLAMGNSS)
 
 
-## Docs
+#### Docs
 
 * [About Me](https://github.com/josephkb87) 
 * [About HaskStacks.md](../docs/README.md) 
