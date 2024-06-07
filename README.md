@@ -1,17 +1,23 @@
-# HaskStacks
+## HaskStacks
 
 HaskStacks is a repository for the Haskell Stack, the Functional Programming language. 
 
 It contains [Worked Examples](#) and, [Projects](#) made with Haskell.
 
-## [Worked Examples](#)
+#### [Worked Examples](#)
 
-* [Basic Embedded System](../Projects/EmbSys)
- 
-## [Projects](#)
-* [Accmeter](../Projects/insslamgnss)
+* [Basic Embedded System](https://github.com/josephkb87/EmbSys)
 
-* [Magnetometer](../Projects/Magmeter)
+
+#### [Projects](https://github.com/josephkb87/HaskStacks/tree/main/Projects)
+
+* [Basic Embedded System](https://github.com/josephkb87/HaskStacks/tree/main/Projects/EmbSys)
+  
+* [Accmeter](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Accmeter)
+
+* [Magnetometer](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Magnetometer)
+
+* [INSSLAMGNSS](https://github.com/josephkb87HaskStacks/tree/main/Projects/INSSlLAMGNSS)
 
 
 
