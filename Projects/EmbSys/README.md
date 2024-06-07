@@ -1,6 +1,6 @@
 ## Embsys (Basic Embedded System)
 
-EmbSys is a [Basic Embedded System](#) made with Haskell  utilising use of a [Raspberry Pi](#), .
+EmbSys is a [Basic Embedded System](https://github.com/josephkb87/EmbSys) made with Haskell  utilising use of a [Raspberry Pi](#), .
 
 
 #### Docs
