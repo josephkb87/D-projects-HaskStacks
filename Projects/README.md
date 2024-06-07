@@ -1,7 +1,7 @@
 
-## Haskell Projects 
+## [Haskell Projects](https://github.com/josephkb87/HaskStacks/tree/main/Projects) 
 
-[Haskell Projects](https://github.com/josephkb87/HaskStacks/tree/main/Projects) focuses on an introduction to Haskell Programming by walking through three complete Haskell projects that apply the things we have learnt in Worked Examples.
+This repo focuses on an introduction to Haskell Programming by walking through three complete Haskell projects that apply the things we have learnt in [Haskell Worked Examples](https://github.com/josephkb87/HaskStacks/tree/main/HaskellWorkedExamples) .
 
 For Haskell Worked Examples go to [Haskell Application of Worked Examples](https://github.com/josephkb87/HaskStacks/tree/main/HaskellWorkedExamples) 
 
