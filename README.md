@@ -1,3 +1,6 @@
-# HaskCMS
+# This HaskStacks contains
 
-Haskell CMS
+## Haskell Projects
+#### HaskCMS
+   - Haskell LCMS
+  
