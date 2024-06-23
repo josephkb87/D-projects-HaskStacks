@@ -18,11 +18,11 @@
 
 #### [EmbSys](https://github.com/josephkb87/HaskStacks/tree/main/Projects/EmbSys)
 
-####. [Accmeter](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Accmeter)
+####  [Accmeter](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Accmeter)
 
-####. [INSSLAMGNSS](https://github.com/josephkb87/HaskStacks/tree/main/Projects/INSSLAMGNSS)
+####  [INSSLAMGNSS](https://github.com/josephkb87/HaskStacks/tree/main/Projects/INSSLAMGNSS)
 
-####.[Magnetometer](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Magnetometer)
+#### [Magnetometer](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Magnetometer)
 
 ## Docs
 
