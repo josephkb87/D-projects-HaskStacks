@@ -10,11 +10,9 @@
    
 ## [Haskell Projects](https://github.com/josephkb87/HaskStacks/tree/main/Projects)
 
-#### Haskell CMS & Haskell LCMS
+#### [Haskell CMS](https://github.com/josephkb87/HaskCMS/cms_project)
 
- - [Haskell CMS](https://github.com/josephkb87/HaskCMS/cms_project)
-
- - [Haskell LCMS](https://github.com/josephkb87/HaskCMS/lcms_project)
+#### [Haskell LCMS](https://github.com/josephkb87/HaskCMS/lcms_project)
 
 #### [EmbSys](https://github.com/josephkb87/HaskStacks/tree/main/Projects/EmbSys)
 
