@@ -10,20 +10,19 @@
    
 ## [Haskell Projects](https://github.com/josephkb87/HaskStacks/tree/main/Projects)
 
-1.
-[Hask CMS](https://github.com/josephkb87/HaskCMS)
+#### Haskell CMS & Haskell LCMS
 
  - [Haskell CMS](https://github.com/josephkb87/HaskCMS/cms_project)
 
  - [Haskell LCMS](https://github.com/josephkb87/HaskCMS/lcms_project)
 
-2. [EmbSys](https://github.com/josephkb87/HaskStacks/tree/main/Projects/EmbSys)
+#### [EmbSys](https://github.com/josephkb87/HaskStacks/tree/main/Projects/EmbSys)
 
-3. [Accmeter](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Accmeter)
+####. [Accmeter](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Accmeter)
 
-4. [INSSLAMGNSS](https://github.com/josephkb87/HaskStacks/tree/main/Projects/INSSLAMGNSS)
+####. [INSSLAMGNSS](https://github.com/josephkb87/HaskStacks/tree/main/Projects/INSSLAMGNSS)
 
-5.[Magnetometer](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Magnetometer)
+####.[Magnetometer](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Magnetometer)
 
 ## Docs
 
