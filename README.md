@@ -1,4 +1,4 @@
-# This HaskStacks contains
+# This HaskStacks includes;
 
 ## [Haskell Application of Worked Examples](https://github.com/josephkb87/HaskStacks/tree/main/HaskellWorkedExamples);
 
@@ -34,4 +34,4 @@
 * [SECURITY](../docs/SECURITY.md) 
 * [Attributions](..docs/Attributions.md) 
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
-* [LICENSE](../docs/LICENSE.md)
+* [LICENSE](../LICENSE.md)
