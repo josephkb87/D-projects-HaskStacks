@@ -10,7 +10,8 @@
 ## [Haskell Projects](https://github.com/josephkb87/HaskStacks/tree/main/Projects)
 
 #### HaskCMS
-   - Haskell LCMS
+   - [Haskell LCMS](https://github.com/josephkb87/HaskCMS)
+
 #### [EmbSys,a Basic Embedded System](https://github.com/josephkb87/HaskStacks/tree/main/Projects/EmbSys)
 
 #### [Accmeter](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Accmeter)
