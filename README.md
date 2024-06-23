@@ -1,27 +1,28 @@
 # This HaskStacks contains
 
 ## [Haskell Application of Worked Examples](https://github.com/josephkb87/HaskStacks/tree/main/HaskellWorkedExamples);
-- [Navigating a Maze](#)
 
-- [k-Means Clustering](#)
+1.[Navigating a Maze](#)
 
-- [Making a Tree Parser](#)
+2.[k-Means Clustering](#)
+
+3.[Making a Tree Parser](#)
    
 ## [Haskell Projects](https://github.com/josephkb87/HaskStacks/tree/main/Projects)
 
-#### HaskCMS 
+1. HaskCMS 
 
 - [Haskell CMS](https://github.com/josephkb87/HaskCMS/cms_project)
 
 - [Haskell LCMS](https://github.com/josephkb87/HaskCMS/lcms_project)
 
-#### [EmbSys,a Basic Embedded System](https://github.com/josephkb87/HaskStacks/tree/main/Projects/EmbSys)
+2.[EmbSys](https://github.com/josephkb87/HaskStacks/tree/main/Projects/EmbSys)
 
-#### [Accmeter](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Accmeter)
+3.[Accmeter](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Accmeter)
 
-#### [INSSLAMGNSS](https://github.com/josephkb87/HaskStacks/tree/main/Projects/INSSLAMGNSS)
+4.[INSSLAMGNSS](https://github.com/josephkb87/HaskStacks/tree/main/Projects/INSSLAMGNSS)
 
-#### [Magnetometer](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Magnetometer)
+5.[Magnetometer](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Magnetometer)
 
 ## Docs
 
