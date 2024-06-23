@@ -1,31 +1,56 @@
-What?
-  Haskell Projects focuses on an introduction to Haskell Programming by walking through three complete projects that apply the things we have learnt.
 
-Why?
-  * Practical application of Haskell Programming
+# Learning Content Management System with Haskell, Moodle, and Firebase
 
-Projects;
+## 1. Set Up Development Environment
 
-Navigating a Maze
-  This project builds on the *findPath*  function developed before for finding a path through a maze.
+### Install Necessary Tools
 
-k-Means Clustering
-  Partitions points into clusters, with each point belonging to the cluster with th nearest mean. As the general problem is NP hard, the standard algorithm, which is relatively rapid, is heuristic and not guaranteed to converge to a global optimum. Varying the input order, from which the initial clusters are generated, can yield different results. 
-  For degenerate and malicious cases, the algorithm may take exponential time. The goal of K-Means clustering is that given
-  
-   * Input : A set of points represented by n-dimensional points in Euclidian space, return
-   * Output : A partitioning of the points, into K clusters, in a manner that minimizes sum of distances between each point and its cluster center.
-
-3. Making a Tree Parser
-Writing a Basic Parser in Haskell
+## 2. Initialize Haskell Project
 
 
-Docs
+## 3. Configure Firebase
 
-If you can:
+## 4. Set Up Backend with Haskell
 
-  * [Buy me a coffee :coffee:](https://www.buymeacoffee.com/josephkb87) (one-time),OR [Sponsor me ](https://github.com/sponsors/josephkb87).
+### Choose a Web Framework
 
-  * [Comment in the project's guestbook](https://github.com/josephkb87/Matlab_Octave/issues/99) :blush:, OR 
-  
-  * Reach out (https://linktr.ee/jungbasher87) My Socials
+### Install Dependencies
+
+Add dependencies to `package.yaml` or `stack.yaml`:
+
+
+### Define API Endpoints
+
+Create handlers for registration, login, and content management:
+
+## 5. Integrate with Moodle
+
+### Enable Moodle Web Services
+
+
+### Interface with Moodle from Haskell
+
+## 6. Frontend Development
+
+### Choose Frontend Framework
+
+### Integrate Firebase Authentication
+
+### Connect Frontend to Backend
+
+## 7. Unit Testing with Jest
+
+### Set Up Jest
+
+### Configure Jest
+
+### Write Tests
+
+## 8. CI/CD Pipeline with Tekton
+
+### Install Tekton - [Tekton Installation](https://tekton.dev/docs/getting-started/#installation)
+
+### Create Tekton Resources
+
+## 9. Deploy and Test
+
