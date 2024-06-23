@@ -1,16 +1,19 @@
 # This HaskStacks contains
 
 ## [Haskell Application of Worked Examples](https://github.com/josephkb87/HaskStacks/tree/main/HaskellWorkedExamples);
-1. [Navigating a Maze](#)
+- [Navigating a Maze](#)
 
-2. [k-Means Clustering](#)
+- [k-Means Clustering](#)
 
-3. [Making a Tree Parser](#)
+- [Making a Tree Parser](#)
    
 ## [Haskell Projects](https://github.com/josephkb87/HaskStacks/tree/main/Projects)
 
-#### HaskCMS
-   - [Haskell LCMS](https://github.com/josephkb87/HaskCMS)
+#### HaskCMS 
+
+- [Haskell CMS](https://github.com/josephkb87/HaskCMS/cms_project)
+
+- [Haskell LCMS](https://github.com/josephkb87/HaskCMS/lcms_project)
 
 #### [EmbSys,a Basic Embedded System](https://github.com/josephkb87/HaskStacks/tree/main/Projects/EmbSys)
 
