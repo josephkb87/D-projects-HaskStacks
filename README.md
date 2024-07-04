@@ -16,22 +16,21 @@ To learn more about the functional programming style, [Bird's text Introduction 
 
 3.[Making a Tree Parser](#)
    
-## [Haskell Projects](https://github.com/josephkb87/HaskStacks/tree/main/Projects)
+#### [Haskell Projects](https://github.com/josephkb87/HaskStacks/tree/main/Projects)
 
-#### [Haskell CMS](https://github.com/josephkb87/HaskCMS/cms_project)
+* [Haskell CMS](https://github.com/josephkb87/HaskStacks/tree/main/Projects/HaskellCMS)
 
-#### [Haskell LCMS](https://github.com/josephkb87/HaskCMS/tree/main/lcms_project)
+* [Haskell LCMS](https://github.com/josephkb87/HaskStacks/tree/main/Projects/HaskellLCMS)
 
-#### [EmbSys](https://github.com/josephkb87/HaskStacks/tree/main/Projects/EmbSys)
+* Basic Embedded System, [EmbSys](https://github.com/josephkb87/HaskStacks/tree/main/Projects/EmbSys)
+  
+* [Accmeter](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Accmeter)
+  
+* [INSSLAMGNSS](https://github.com/josephkb87/HaskStacks/tree/main/Projects/INSSLAMGNSS)
 
-####  [Accmeter](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Accmeter)
-
-####  [INSSLAMGNSS](https://github.com/josephkb87/HaskStacks/tree/main/Projects/INSSLAMGNSS)
-
-#### [Magnetometer](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Magnetometer)
-
+* [Magnetometer](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Magnetometer)
+  
 ## Docs
-
 * [About Me](https://github.com/josephkb87)
 * [About HaskStacks](../docs/README.md)
 * [Haskell Worked Examples](https://github.com/josephkb87/HaskStacks/tree/main/HaskellWorkedExamples/README.md)
