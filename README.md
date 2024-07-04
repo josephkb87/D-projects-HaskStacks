@@ -20,7 +20,7 @@ To learn more about the functional programming style, [Bird's text Introduction 
 
 * [Haskell CMS](https://github.com/josephkb87/HaskStacks/tree/main/Projects/HaskellCMS)
 
-* [Haskell LCMS](https://github.com/josephkb87/HaskStacks/tree/main/Projects/Haskell-LCMS)
+* [Haskell LCMS](https://github.com/josephkb87/Haskell-LCMS)
 
 * Basic Embedded System, [EmbSys](https://github.com/josephkb87/HaskStacks/tree/main/Projects/EmbSys)
   
